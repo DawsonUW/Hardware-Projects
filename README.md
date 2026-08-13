@@ -1,4 +1,4 @@
-Two PCB boards, each including schematic capture and PCB layout:
+2 PCB boards, each including schematics and PCB layout:
 
 •  ATmega16-based board: Completed
 
